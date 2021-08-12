@@ -1,0 +1,8 @@
+Podaci koji nam trebaju za trazene zadatke:
+id tenisera, ime, prezime
+id turnira na kom igraju
+rang + br poena na atp listi
+zemlja porekla
+podloga na kojoj se igra mec -> ovo msm da treba samo da ostane u
+sekundarnim podacima i da cemo onda na osnovu toga moci neki od onih
+networkx grafika da crtamo (kolko se secam)
